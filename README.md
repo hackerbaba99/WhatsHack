@@ -13,8 +13,8 @@ chmod +x *
 ./Whats.sh
 ```````
 
-# visit YouTube Channel To Watch Praticals Videos -  https://youtu.be/4T7TUL85KII
+# visit YouTube Channel To Watch Praticals Videos - https://youtu.be/pXdP_kuCjGE
 # Step By Step Guide on Website - https://cybermissionposts.blogspot.com/
 
-# Subscribe Us https://youtu.be/4T7TUL85KII
-# Instagram https://www.instagram.com/cyber__mission/
+# Subscribe Us https://youtu.be/pXdP_kuCjGE
+# whatsapp 7049729732
